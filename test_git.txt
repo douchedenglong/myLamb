@@ -5,3 +5,6 @@ just try to say hello to git
 -----------------after say hello------------------------
 
 i want to write something to test change the file
+
+------------------after change file -------------------------------------
+maybe next time i want to recover this version
