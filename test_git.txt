@@ -11,3 +11,5 @@ maybe next time i want to recover this version
 
 --test add and commit
 start first change this file
+
+the boss is a foolish guy
